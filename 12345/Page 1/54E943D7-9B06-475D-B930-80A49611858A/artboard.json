@@ -60,6 +60,10 @@
     {
       "class": "shapeGroup",
       "id": "E8DCAF78-8D65-4287-A1EF-EB4F9EEF68B5"
+    },
+    {
+      "class": "text",
+      "id": "67CF6B86-A3FD-4446-8EE9-D50C15E92E8F"
     }
   ],
   "name": "o",
